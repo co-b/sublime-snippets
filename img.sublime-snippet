@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<img src="${1:http://placekitten.com/200/300}" alt="${2:}"${3: width="${4:200}" height="${5:300}"}>
+]]></content>
+	<tabTrigger>img</tabTrigger>
+</snippet>
