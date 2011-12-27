@@ -5,6 +5,6 @@ ini_set('display_errors', 1);
 ${1:ini_set("log_errors", 1);}
 ${2:ini_set("error_log", $_SERVER['DOCUMENT_ROOT'].'/errors.log');}
 ]]></content>
-	<tabTrigger>google</tabTrigger>
+	<tabTrigger>errors</tabTrigger>
 	<scope>source.php</scope>
 </snippet>
