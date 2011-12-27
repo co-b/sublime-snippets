@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-mail('${$TM_FULLNAME} <${$TM_FULLNAME}@bytestudios.com>','${1:}','${2:}','From: Byte Studios <log@bytestudios.com>' . "\r\n");
+mail('Joel <joel@bytestudios.com>','${1:}','${2:}','From: Byte Studios <log@bytestudios.com>' . "\r\n");
 ]]></content>
 	<tabTrigger>email</tabTrigger>
 	<scope>source.php</scope>
