@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
-	<label for="$1">$2</label>
-	<input id="$1" type="text" name="$1" placeholder="$2" value="">
+<content><![CDATA[
+<label for="$1">$2</label>
+<input id="$1" type="text" name="$1" placeholder="$2" value="">
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>niceinput</tabTrigger>
