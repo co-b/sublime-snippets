@@ -1,15 +1,11 @@
 <snippet>
 	<content><![CDATA[
-\$.ajax({
-	type: "POST",
-	url: PAGE,
-	data: params,
-}).done(function(msg){
-	//success
-});
+/*===================================
+$1
+===================================*/
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ajax</tabTrigger>
+	<tabTrigger>comment</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.JavaScript</scope> -->
+	<!-- <scope>source.python</scope> -->
 </snippet>
